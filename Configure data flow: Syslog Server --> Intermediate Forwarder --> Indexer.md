@@ -1,7 +1,7 @@
 ## Configure data flow: Syslog Server --> Intermediate Forwarder --> Indexer
 
 
-i.Go to your AWS console Create a 3 new instance (syslog-ng, intermediate forwarder, indexing).
+i.Go to your AWS console Create a 3 new instance (syslog-ng, intermediate forwarder, indexer).
 
 ii.Enable the Security groups in your each servers (5514 & 8000-9999) ports
 
